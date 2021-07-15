@@ -1,4 +1,4 @@
-kw = ['GOT', 'game of thrones', 'got spoiler', 'GoT', 'GOT Spoiler', 'Game of Thrones', 'GAME OF THRONES', 'death', 'DEAD', 'Dead', 'Died', 'DEATH', 'Death', 'DIED']
+kw = ['LOKI', 'loki', 'loki trailer', 'LOKI TRAILER','loki series', 'LOKI SERIES']
 tags = "SPANEMBIULOLI";
 total = 0;
 
